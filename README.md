@@ -1,4 +1,4 @@
-#Analyzing COVID-19 Dataset
+# Analyzing COVID-19 Dataset
 
 Notebooks for pre-processing and loading thousands of [CORD-19 scientific articles](https://allenai.org/data/cord-19) for automatic classification. These articles contain research on COVID-19 or related coronaviruses.
 Initial pre-processing script borrowed from [Kaggle kernel by Maskim Ekin](https://www.kaggle.com/maksimeren/covid-19-literature-clustering/notebook), then heavily modified.
